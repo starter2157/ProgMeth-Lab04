@@ -9,7 +9,7 @@ import entity.container.Pan;
 import entity.counter.Bin;
 import entity.ingredient.Bread;
 import entity.ingredient.Meat;
-import grader.counter.base.BaseCounterTest;
+import test.grader.counter.base.BaseCounterTest;
 
 class BinTest extends BaseCounterTest {
 

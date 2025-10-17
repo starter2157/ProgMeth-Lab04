@@ -9,7 +9,7 @@ import entity.container.Dish;
 import entity.counter.ChoppingBoard;
 import entity.ingredient.Bread;
 import entity.ingredient.Lettuce;
-import grader.counter.base.BaseCounterTest;
+import test.grader.counter.base.BaseCounterTest;
 
 class ChoppingBoardTest extends BaseCounterTest {
 

@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import entity.counter.Crate;
 import entity.ingredient.Bread;
-import counter.base.BaseCounterTest;
+import test.grader.counter.base.BaseCounterTest;
 
 class CrateTest extends BaseCounterTest {
 

@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import entity.container.Dish;
 import entity.counter.DishWasher;
 import entity.ingredient.Bread;
-import grader.counter.base.BaseCounterTest;
+import test.grader.counter.base.BaseCounterTest;
 
 class DishWasherTest extends BaseCounterTest {
 
